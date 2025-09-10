@@ -1,0 +1,21 @@
+# Product Requirements Document (PRD)
+
+## Table of Contents
+
+- [Product Requirements Document (PRD)](#table-of-contents)
+  - [1. Purpose & Scope](./1-purpose-scope.md)
+  - [2. Objectives & Success Criteria](./2-objectives-success-criteria.md)
+  - [3. Key Features & Requirements](./3-key-features-requirements.md)
+  - [4. Constraints & Assumptions](./4-constraints-assumptions.md)
+  - [5. Epics & User Stories](./5-epics-user-stories.md)
+    - [Epic 1 — Teams & Rosters (Launch Blocker)](./5-epics-user-stories.md#epic-1-teams-rosters-launch-blocker)
+    - [Epic 2 — Scheduling (Launch Blocker)](./5-epics-user-stories.md#epic-2-scheduling-launch-blocker)
+    - [Epic 3 — Availability (Launch Blocker)](./5-epics-user-stories.md#epic-3-availability-launch-blocker)
+    - [Epic 4 — Messaging & Announcements (Launch Blocker)](./5-epics-user-stories.md#epic-4-messaging-announcements-launch-blocker)
+    - [Epic 5 — Notifications & Preferences (V1 Important)](./5-epics-user-stories.md#epic-5-notifications-preferences-v1-important)
+    - [Epic 6 — Multi‑Team Support (V1 Important)](./5-epics-user-stories.md#epic-6-multiteam-support-v1-important)
+    - [Epic 7 — Self‑Hosting Setup (V1 Important)](./5-epics-user-stories.md#epic-7-selfhosting-setup-v1-important)
+  - [6. Non-Functional Requirements (with KPIs)](./6-non-functional-requirements-with-kpis.md)
+  - [7. Dependencies](./7-dependencies.md)
+  - [8. Open Issues](./8-open-issues.md)
+  - [9. Approval & Sign-Off](./9-approval-sign-off.md)
